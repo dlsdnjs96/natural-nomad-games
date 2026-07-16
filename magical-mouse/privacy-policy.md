@@ -93,8 +93,3 @@ Steam(Valve Corporation)의 구매·플랫폼 데이터 처리는 [Valve 개인�
 ### 변경 고지
 
 처리 방식이 변경되면 본 페이지와 시행일을 갱신합니다.
-
----
-
-> ⚠️ 본 문서는 초안이며 법률 자문이 아닙니다. 출시 전 최종 검토를 권장합니다.
-> 게시 방법: GitHub Pages 등에 호스팅 → Steamworks Basic Info 의 **Privacy Policy URL** 에 등록.
