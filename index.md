@@ -4,8 +4,8 @@
 
 ## Games
 
-### Magical Mouse
-- [Privacy Policy / 개인정보처리방침](./magical-mouse/privacy-policy)
+### Incremental Magic
+- [Privacy Policy / 개인정보처리방침](./incremental-magic/privacy-policy)
 
 ## Contact
 - natural.nomad.26@gmail.com
