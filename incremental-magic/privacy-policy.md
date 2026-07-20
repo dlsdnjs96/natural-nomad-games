@@ -55,7 +55,7 @@ We will update this page and the effective date if our data practices change.
 
 ### 수집하는 정보
 
-Incremental Magic 는 게임 개선을 위해 최소한의 **익명 게임플레이 텔레메트리**를 수집합니다.
+Incremental Magic 은 게임 개선을 위해 최소한의 **익명 게임플레이 텔레메트리**를 수집합니다.
 
 - **익명 식별자** — 기기에 저장되는 무작위 생성 ID. 이름·이메일·Steam ID·계정과 연결되지 않습니다.
 - **게임플레이 이벤트** — 세션 시작/종료, 던전 입장/클리어, 보스 결과, 스킬·경제 요약 등 집계 데이터와 앱 버전, 플랫폼(OS), 선택 언어.
