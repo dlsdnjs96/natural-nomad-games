@@ -7,5 +7,8 @@
 ### Incremental Magic
 - [Privacy Policy / 개인정보처리방침](./incremental-magic/privacy-policy)
 
+### Plinko Squad
+- [Privacy Policy / 개인정보처리방침](./plinko-squad/privacy-policy)
+
 ## Contact
 - natural.nomad.26@gmail.com
