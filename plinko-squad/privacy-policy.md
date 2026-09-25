@@ -14,7 +14,7 @@ The first time you open Plinko Squad, the game asks whether you allow anonymous 
 
 ### What we collect (only if you allow it)
 
-- **Anonymous identifier** — a randomly generated ID stored on your device. It is not linked to your name, email, Steam ID, or any account.
+- **Anonymous identifier** — a randomly generated ID stored in the game's save data on your device (and in your Steam Cloud save, if Steam Cloud is on). We do not link it to your name, email, Steam ID, or any account.
 - **App usage events** — your data-collection choice and where you made it (first-launch prompt or Settings), app start, first launch, session length when the game closes, and clicks on in-game links to the Steam store page or Discord (when the game shows them).
 - **Device and settings information** — game version, platform and operating system, device model, graphics card model, CPU core count, system memory, screen resolution and display mode, system language, and the language selected in the game.
 - **Crash and error reports** — exception type, a truncated stack trace, game version, and platform when an error occurs.
@@ -58,7 +58,7 @@ Plinko Squad 는 처음 실행할 때 익명 데이터 수집에 동의하는지
 
 ### 수집하는 정보 (동의한 경우에만)
 
-- **익명 식별자** — 기기에 저장되는 무작위 생성 ID. 이름·이메일·Steam ID·계정과 연결되지 않습니다.
+- **익명 식별자** — 기기의 게임 저장 데이터에 저장되는 무작위 생성 ID(Steam 클라우드가 켜져 있으면 Steam 클라우드 저장에도 함께 보관됩니다). 당사는 이를 이름·이메일·Steam ID·계정과 연결하지 않습니다.
 - **앱 사용 이벤트** — 데이터 수집 선택과 선택한 곳(첫 실행 안내창 · 설정), 앱 시작, 첫 실행, 종료 시 세션 길이, 게임 안의 Steam 상점·Discord 링크 클릭(게임에 해당 링크가 있을 때).
 - **기기·설정 정보** — 게임 버전, 플랫폼과 운영체제, 기기 모델, 그래픽카드 모델, CPU 코어 수, 시스템 메모리, 화면 해상도와 화면 모드, 시스템 언어, 게임에서 고른 언어.
 - **오류/크래시 리포트** — 오류 발생 시 예외 유형, 일부 스택 정보, 게임 버전, 플랫폼.
