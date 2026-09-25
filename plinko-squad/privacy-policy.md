@@ -16,6 +16,7 @@ The first time you open Plinko Squad, the game asks whether you allow anonymous 
 
 - **Anonymous identifier** — a randomly generated ID stored in the game's save data on your device (and in your Steam Cloud save, if Steam Cloud is on). We do not link it to your name, email, Steam ID, or any account.
 - **App usage events** — your data-collection choice and where you made it (first-launch prompt or Settings), app start, first launch, session length when the game closes, and clicks on in-game links to the Steam store page or Discord (when the game shows them).
+- **Gameplay events** — which screens you reach and how long they take to load; run start and end (difficulty, floor reached, result, play time); each round and battle (result, duration, units used and their levels, damage dealt, units lost); your choices such as augments, rewards, upgrades and hero synthesis; summaries of shop and plinko activity per round; the average frame rate during battles; and a random seed for the run so a reported bug can be reproduced.
 - **Device and settings information** — game version, platform and operating system, device model, graphics card model, CPU core count, system memory, screen resolution and display mode, system language, and the language selected in the game.
 - **Crash and error reports** — exception type, a truncated stack trace, game version, and platform when an error occurs.
 
@@ -23,7 +24,7 @@ We do **not** collect names, email addresses, Steam IDs, nicknames, chat, precis
 
 ### How we use it
 
-Only to fix bugs, balance difficulty, and improve the game. It is never sold and never used for advertising.
+Only to fix bugs, balance difficulty and game content, decide what to update, and improve the game. It is never sold and never used for advertising.
 
 ### Third-party services
 
@@ -60,6 +61,7 @@ Plinko Squad 는 처음 실행할 때 익명 데이터 수집에 동의하는지
 
 - **익명 식별자** — 기기의 게임 저장 데이터에 저장되는 무작위 생성 ID(Steam 클라우드가 켜져 있으면 Steam 클라우드 저장에도 함께 보관됩니다). 당사는 이를 이름·이메일·Steam ID·계정과 연결하지 않습니다.
 - **앱 사용 이벤트** — 데이터 수집 선택과 선택한 곳(첫 실행 안내창 · 설정), 앱 시작, 첫 실행, 종료 시 세션 길이, 게임 안의 Steam 상점·Discord 링크 클릭(게임에 해당 링크가 있을 때).
+- **게임플레이 이벤트** — 도달한 화면과 로딩 시간, 판의 시작·종료(난이도·도달 층·결과·플레이 시간), 라운드·전투별 결과(승패·걸린 시간·사용한 유닛과 레벨·가한 피해·잃은 유닛), 증강·보상·강화·영웅 합성 같은 선택, 라운드별 상점·플링코 활동 요약, 전투 중 평균 프레임, 오류 재현을 위한 판의 무작위 시드.
 - **기기·설정 정보** — 게임 버전, 플랫폼과 운영체제, 기기 모델, 그래픽카드 모델, CPU 코어 수, 시스템 메모리, 화면 해상도와 화면 모드, 시스템 언어, 게임에서 고른 언어.
 - **오류/크래시 리포트** — 오류 발생 시 예외 유형, 일부 스택 정보, 게임 버전, 플랫폼.
 
@@ -67,7 +69,7 @@ Plinko Squad 는 처음 실행할 때 익명 데이터 수집에 동의하는지
 
 ### 이용 목적
 
-버그 수정, 난이도 밸런스, 게임 개선에만 사용합니다. 판매하거나 광고에 사용하지 않습니다.
+버그 수정, 난이도·콘텐츠 밸런스, 업데이트 방향 결정, 게임 개선에만 사용합니다. 판매하거나 광고에 사용하지 않습니다.
 
 ### 제3자 제공·국외 이전
 
