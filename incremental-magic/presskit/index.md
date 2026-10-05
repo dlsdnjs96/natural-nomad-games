@@ -42,7 +42,9 @@ Incremental Magic is a 2D action clicker where you click, drag, and scroll to hu
 
 ## Trailer
 
-Watch the trailer on the [Steam page](https://store.steampowered.com/app/4928970/?utm_source=presskit&utm_medium=web&utm_campaign=nextfest_outreach).
+[![Watch the trailer on YouTube](https://img.youtube.com/vi/LVQEJQEUCMU/maxresdefault.jpg)](https://youtu.be/LVQEJQEUCMU)
+
+**[Watch the trailer on YouTube](https://youtu.be/LVQEJQEUCMU)**
 
 ## Logo & Key Art
 
