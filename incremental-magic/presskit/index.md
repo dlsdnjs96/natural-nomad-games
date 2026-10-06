@@ -76,6 +76,10 @@ Natural Nomad is a solo indie developer from South Korea. Incremental Magic is t
 
 한국의 1인 인디 개발자입니다. Incremental Magic 은 무료 포커 로그라이크 Board Poker 에 이은 두 번째 스팀 게임입니다.
 
+## AI Disclosure
+
+Most of the game's 2D art (monster sprites, map backgrounds, skill and achievement icons, key art) and the short boss intro and defeat cutscenes were created with the assistance of generative AI tools, then reviewed and edited by the developer. Some cutscene sound effects and parts of the localization were also produced with AI assistance under human review. The game does not generate any content with AI at runtime. See also the AI Generated Content Disclosure on the Steam page.
+
 ## Usage
 
 All assets on this page may be used freely for coverage of Incremental Magic. Streaming and video monetization are fully permitted. The in-game music and sound effects are licensed royalty-free and are not registered with YouTube Content ID.
