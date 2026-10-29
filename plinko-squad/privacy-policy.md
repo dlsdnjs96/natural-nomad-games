@@ -1,6 +1,6 @@
 # Plinko Squad — Privacy Policy / 개인정보처리방침
 
-**Effective date / 시행일: 2026-09-25**
+**Effective date / 시행일: 2026-10-29**
 **Developer / 개발자: Natural Nomad**
 **Contact / 문의: natural.nomad.26@gmail.com**
 
@@ -16,8 +16,8 @@ The first time you open Plinko Squad, the game asks whether you allow anonymous 
 
 - **Anonymous identifier** — a randomly generated ID stored in the game's save data on your device (and in your Steam Cloud save, if Steam Cloud is on). We do not link it to your name, email, Steam ID, or any account.
 - **App usage events** — your data-collection choice and where you made it (first-launch prompt or Settings), app start, first launch, session length when the game closes, and clicks on in-game links to the Steam store page or Discord (when the game shows them).
-- **Gameplay events** — which screens you reach and how long they take to load; run start and end (difficulty, floor reached, result, play time); each round and battle (result, duration, units used and their levels, damage dealt, units lost); your choices such as augments, rewards, upgrades and hero synthesis; summaries of shop and plinko activity per round; the average frame rate during battles; and a random seed for the run so a reported bug can be reproduced.
-- **Device and settings information** — game version, platform and operating system, device model, graphics card model, CPU core count, system memory, screen resolution and display mode, system language, and the language selected in the game.
+- **Gameplay events** — which screens you reach and how long they take to load; run start and end (difficulty, floor reached, result, play time); each round and battle (result, duration, units used and their levels, damage dealt, units lost); your choices such as augments (including the options offered and how long you took to choose), rewards, upgrades and hero synthesis; the items offered and bought in the shop and where plinko balls landed each round; consumable use; how much health each side had left after a battle; the average and longest frame times during battles; tutorial step progress (completed or skipped), how far you viewed the opening comic, and whether you reached an ending screen; and a random seed for the run so a reported bug can be reproduced.
+- **Device and settings information** — game version, platform and operating system, device model, graphics card model, CPU core count, system memory, screen resolution and display mode, system language, the language selected in the game, and which in-game settings you changed (for example volume, display or accessibility options).
 - **Crash and error reports** — exception type, a truncated stack trace, game version, and platform when an error occurs.
 
 We do **not** collect names, email addresses, Steam IDs, nicknames, chat, precise location, or any directly identifying information. The game has no account system and no in-game purchases.
@@ -61,8 +61,8 @@ Plinko Squad 는 처음 실행할 때 익명 데이터 수집에 동의하는지
 
 - **익명 식별자** — 기기의 게임 저장 데이터에 저장되는 무작위 생성 ID(Steam 클라우드가 켜져 있으면 Steam 클라우드 저장에도 함께 보관됩니다). 당사는 이를 이름·이메일·Steam ID·계정과 연결하지 않습니다.
 - **앱 사용 이벤트** — 데이터 수집 선택과 선택한 곳(첫 실행 안내창 · 설정), 앱 시작, 첫 실행, 종료 시 세션 길이, 게임 안의 Steam 상점·Discord 링크 클릭(게임에 해당 링크가 있을 때).
-- **게임플레이 이벤트** — 도달한 화면과 로딩 시간, 판의 시작·종료(난이도·도달 층·결과·플레이 시간), 라운드·전투별 결과(승패·걸린 시간·사용한 유닛과 레벨·가한 피해·잃은 유닛), 증강·보상·강화·영웅 합성 같은 선택, 라운드별 상점·플링코 활동 요약, 전투 중 평균 프레임, 오류 재현을 위한 판의 무작위 시드.
-- **기기·설정 정보** — 게임 버전, 플랫폼과 운영체제, 기기 모델, 그래픽카드 모델, CPU 코어 수, 시스템 메모리, 화면 해상도와 화면 모드, 시스템 언어, 게임에서 고른 언어.
+- **게임플레이 이벤트** — 도달한 화면과 로딩 시간, 판의 시작·종료(난이도·도달 층·결과·플레이 시간), 라운드·전투별 결과(승패·걸린 시간·사용한 유닛과 레벨·가한 피해·잃은 유닛), 증강(제시된 선택지와 고르기까지 걸린 시간 포함)·보상·강화·영웅 합성 같은 선택, 라운드별 상점에 나온 품목과 산 품목·플링코 공이 떨어진 칸, 소모품 사용, 전투 뒤 양쪽의 남은 체력, 전투 중 평균·최장 프레임 시간, 튜토리얼 단계 진행(완료·건너뜀)과 첫 실행 만화를 본 정도·엔딩 화면 도달 여부, 오류 재현을 위한 판의 무작위 시드.
+- **기기·설정 정보** — 게임 버전, 플랫폼과 운영체제, 기기 모델, 그래픽카드 모델, CPU 코어 수, 시스템 메모리, 화면 해상도와 화면 모드, 시스템 언어, 게임에서 고른 언어, 게임 안에서 바꾼 설정(예: 음량·화면·접근성 옵션).
 - **오류/크래시 리포트** — 오류 발생 시 예외 유형, 일부 스택 정보, 게임 버전, 플랫폼.
 
 이름, 이메일, Steam ID, 닉네임, 채팅, 정밀 위치 등 **직접 식별 정보는 수집하지 않습니다.** 게임에는 계정 시스템과 인앱 결제가 없습니다.
