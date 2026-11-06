@@ -1,6 +1,6 @@
 # Plinko Squad — Privacy Policy / 개인정보처리방침
 
-**Effective date / 시행일: 2026-10-29**
+**Effective date / 시행일: 2026-11-06**
 **Developer / 개발자: Natural Nomad**
 **Contact / 문의: natural.nomad.26@gmail.com**
 
@@ -8,14 +8,20 @@
 
 ## English
 
-### We ask first
+### How we ask
 
-The first time you open Plinko Squad, the game asks whether you allow anonymous data collection. **Nothing is sent until you answer.** If you choose "Decline", the game sends **a single anonymous record that you declined** — it carries a one-time random ID that is not stored on your device and no device information, so it cannot be linked to you — and after that no gameplay events or crash reports are ever sent. The same single record is sent if you later turn collection off. You can change your choice at any time in **Settings → Gameplay → Anonymous data collection**.
+How the game handles data collection depends on the country Steam reports for your connection. The game uses this country only on your device to choose one of the two options below. It is not sent anywhere.
 
-### What we collect (only if you allow it)
+**EU/EEA, United Kingdom, Switzerland, South Korea and China, or when the country is unknown: we ask first.** The first time you open Plinko Squad, the game asks whether you allow anonymous data collection. **Nothing is sent until you answer.** If you choose "Decline", the game sends **a single anonymous record that you declined**. It carries a one-time random ID that is not stored on your device and no device information, so it cannot be linked to you. After that, no gameplay events or crash reports are ever sent.
+
+**All other countries: on by default, with notice.** Anonymous data collection is on from the first launch. The game shows a notice explaining what is collected and how to turn it off.
+
+In every country you can turn collection off, or back on, at any time in **Settings → Gameplay → Anonymous data collection**. Turning it off sends the same single anonymous record and stops all collection. If you only saw the notice and later play from a country where we ask first, the game asks you before sending anything.
+
+### What we collect
 
 - **Anonymous identifier** — a randomly generated ID stored in the game's save data on your device (and in your Steam Cloud save, if Steam Cloud is on). We do not link it to your name, email, Steam ID, or any account.
-- **App usage events** — your data-collection choice and where you made it (first-launch prompt or Settings), app start, first launch, session length when the game closes, and clicks on in-game links to the Steam store page or Discord (when the game shows them).
+- **App usage events** — your data-collection choice and where you made it (first-launch prompt, first-launch notice, or Settings), app start, first launch, session length when the game closes, and clicks on in-game links to the Steam store page or Discord (when the game shows them).
 - **Gameplay events** — which screens you reach and how long they take to load; run start and end (difficulty, floor reached, result, play time); each round and battle (result, duration, units used and their levels, damage dealt, units lost); your choices such as augments (including the options offered and how long you took to choose), rewards, upgrades and hero synthesis; the items offered and bought in the shop and where plinko balls landed each round; consumable use; how much health each side had left after a battle; the average and longest frame times during battles; tutorial step progress (completed or skipped), how far you viewed the opening comic, and whether you reached an ending screen; and a random seed for the run so a reported bug can be reproduced.
 - **Device and settings information** — game version, platform and operating system, device model, graphics card model, CPU core count, system memory, screen resolution and display mode, system language, the language selected in the game, and which in-game settings you changed (for example volume, display or accessibility options).
 - **Crash and error reports** — exception type, a truncated stack trace, game version, and platform when an error occurs.
@@ -31,7 +37,7 @@ Only to fix bugs, balance difficulty and game content, decide what to update, an
 - **Google Analytics 4** (Google LLC, USA) — receives the anonymous events above. Data is processed on Google servers, which may be located outside your country. See the [Google Privacy Policy](https://policies.google.com/privacy).
 - **Discord webhook** (Discord Inc., USA) — receives crash summaries only (exception type, stack excerpt, version, platform) so the developer is alerted to bugs.
 
-Steam (Valve Corporation) processes your purchase, platform, and cloud-save data under its own [privacy policy](https://store.steampowered.com/privacy_agreement/). We do not receive personal data from Steam.
+Steam (Valve Corporation) processes your purchase, platform, and cloud-save data under its own [privacy policy](https://store.steampowered.com/privacy_agreement/). We do not receive personal data from Steam, other than the country of your connection, which the game reads on your device as described in "How we ask".
 
 ### Retention
 
@@ -53,14 +59,20 @@ We will update this page and the effective date if our data practices change.
 
 ## 한국어
 
-### 먼저 묻습니다
+### 수집 방식
 
-Plinko Squad 는 처음 실행할 때 익명 데이터 수집에 동의하는지 묻습니다. **답하기 전에는 아무것도 전송하지 않습니다.** "거부"를 누르면 **거부했다는 익명 기록 한 건**만 보냅니다 — 기기에 저장하지 않는 일회용 무작위 ID 와 함께 보내고 기기 정보는 붙이지 않아 이용자와 연결할 수 없습니다. 그 뒤로는 게임플레이 이벤트와 크래시 리포트를 전혀 보내지 않습니다. 나중에 설정에서 수집을 끌 때도 같은 기록 한 건을 보냅니다. 선택은 언제든 **설정 → 게임플레이 → 익명 데이터 수집**에서 바꿀 수 있습니다.
+데이터 수집 방식은 Steam 이 알려 주는 접속 국가에 따라 다릅니다. 게임은 이 국가 정보를 아래 두 방식 중 하나를 고르는 데에만 기기 안에서 사용하며, 어디에도 전송하지 않습니다.
 
-### 수집하는 정보 (동의한 경우에만)
+**EU/EEA · 영국 · 스위스 · 대한민국 · 중국, 그리고 국가를 알 수 없을 때: 먼저 묻습니다.** Plinko Squad 는 처음 실행할 때 익명 데이터 수집에 동의하는지 묻습니다. **답하기 전에는 아무것도 전송하지 않습니다.** "거부"를 누르면 **거부했다는 익명 기록 한 건**만 보냅니다. 이 기록은 기기에 저장하지 않는 일회용 무작위 ID 와 함께 보내고 기기 정보는 붙이지 않아 이용자와 연결할 수 없습니다. 그 뒤로는 게임플레이 이벤트와 크래시 리포트를 전혀 보내지 않습니다.
+
+**그 밖의 국가: 기본으로 수집하고 안내합니다.** 첫 실행부터 익명 데이터를 수집합니다. 게임은 무엇을 수집하는지와 끄는 방법을 알리는 안내를 띄웁니다.
+
+어느 국가에서든 **설정 → 게임플레이 → 익명 데이터 수집**에서 언제든 수집을 끄거나 다시 켤 수 있습니다. 끄면 같은 익명 기록 한 건을 보내고 모든 수집을 멈춥니다. 안내만 본 뒤 먼저 묻는 국가에서 플레이하면, 아무것도 보내기 전에 다시 묻습니다.
+
+### 수집하는 정보
 
 - **익명 식별자** — 기기의 게임 저장 데이터에 저장되는 무작위 생성 ID(Steam 클라우드가 켜져 있으면 Steam 클라우드 저장에도 함께 보관됩니다). 당사는 이를 이름·이메일·Steam ID·계정과 연결하지 않습니다.
-- **앱 사용 이벤트** — 데이터 수집 선택과 선택한 곳(첫 실행 안내창 · 설정), 앱 시작, 첫 실행, 종료 시 세션 길이, 게임 안의 Steam 상점·Discord 링크 클릭(게임에 해당 링크가 있을 때).
+- **앱 사용 이벤트** — 데이터 수집 선택과 선택한 곳(첫 실행 동의창 · 안내창 · 설정), 앱 시작, 첫 실행, 종료 시 세션 길이, 게임 안의 Steam 상점·Discord 링크 클릭(게임에 해당 링크가 있을 때).
 - **게임플레이 이벤트** — 도달한 화면과 로딩 시간, 판의 시작·종료(난이도·도달 층·결과·플레이 시간), 라운드·전투별 결과(승패·걸린 시간·사용한 유닛과 레벨·가한 피해·잃은 유닛), 증강(제시된 선택지와 고르기까지 걸린 시간 포함)·보상·강화·영웅 합성 같은 선택, 라운드별 상점에 나온 품목과 산 품목·플링코 공이 떨어진 칸, 소모품 사용, 전투 뒤 양쪽의 남은 체력, 전투 중 평균·최장 프레임 시간, 튜토리얼 단계 진행(완료·건너뜀)과 첫 실행 만화를 본 정도·엔딩 화면 도달 여부, 오류 재현을 위한 판의 무작위 시드.
 - **기기·설정 정보** — 게임 버전, 플랫폼과 운영체제, 기기 모델, 그래픽카드 모델, CPU 코어 수, 시스템 메모리, 화면 해상도와 화면 모드, 시스템 언어, 게임에서 고른 언어, 게임 안에서 바꾼 설정(예: 음량·화면·접근성 옵션).
 - **오류/크래시 리포트** — 오류 발생 시 예외 유형, 일부 스택 정보, 게임 버전, 플랫폼.
@@ -76,7 +88,7 @@ Plinko Squad 는 처음 실행할 때 익명 데이터 수집에 동의하는지
 - **Google Analytics 4** (Google LLC, 미국) — 위 익명 이벤트를 수신·처리합니다(국외 서버 포함). [Google 개인정보처리방침](https://policies.google.com/privacy)
 - **Discord 웹훅** (Discord Inc., 미국) — 크래시 요약(예외 유형·스택 일부·버전·플랫폼)만 수신하여 개발자에게 오류를 알립니다.
 
-Steam(Valve Corporation)의 구매·플랫폼·클라우드 저장 데이터 처리는 [Valve 개인정보처리방침](https://store.steampowered.com/privacy_agreement/)을 따르며, 당사는 Steam 으로부터 개인정보를 제공받지 않습니다.
+Steam(Valve Corporation)의 구매·플랫폼·클라우드 저장 데이터 처리는 [Valve 개인정보처리방침](https://store.steampowered.com/privacy_agreement/)을 따르며, 당사는 Steam 으로부터 개인정보를 제공받지 않습니다. 다만 "수집 방식"에 적은 대로 접속 국가 정보를 기기 안에서만 읽습니다.
 
 ### 보유 기간
 
