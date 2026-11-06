@@ -9,6 +9,7 @@
 - [Privacy Policy / 개인정보처리방침](./incremental-magic/privacy-policy)
 
 ### Plinko Squad
+- [Press Kit / 프레스킷](./plinko-squad/presskit/)
 - [Privacy Policy / 개인정보처리방침](./plinko-squad/privacy-policy)
 
 ## Contact
