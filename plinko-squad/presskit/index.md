@@ -1,11 +1,11 @@
 # Plinko Squad — Press Kit
 
 > **Your army comes out of a plinko board.**
-> A roguelite auto battler. Free demo coming to Steam.
+> A roguelite auto battler. A free demo is available now on Steam.
 
 [![Plinko Squad key art](./assets/keyart_main_1232x706.png)](./assets/keyart_main_1232x706.png)
 
-**[Download all logos, key art & screenshots (.zip)](./assets/plinko-squad-presskit.zip)** · [Steam page](https://store.steampowered.com/app/5324330/?utm_source=presskit&utm_medium=web) · [Discord](https://discord.gg/KYamXevqhJ)
+**[Download all logos, key art & screenshots (.zip)](./assets/plinko-squad-presskit.zip)** · [Steam page](https://store.steampowered.com/app/5324330/?utm_source=presskit&utm_medium=web&utm_campaign=demo_outreach) · [Trailer](https://youtu.be/8qHHumcHCrM) · [Discord](https://discord.gg/KYamXevqhJ)
 
 ---
 
@@ -15,13 +15,14 @@
 |---|---|
 | **Title** | Plinko Squad |
 | **Developer** | Natural Nomad (solo developer, South Korea) |
-| **Release Date** | TBA |
-| **Demo** | Free demo, TBA |
+| **Release Date** | Coming soon (TBA) |
+| **Demo** | Free demo available now on Steam — one full run on Easy · Steam Auto-Battler RPG Fest, November 16–23, 2026 |
 | **Price** | $9.99 (demo: free) |
 | **Platform** | Windows (Steam) |
 | **Genre** | Roguelite / Auto Battler / Strategy |
 | **Languages** | English, 한국어, 日本語, 简体中文, 繁體中文, Español, Español (Latinoamérica), Português (BR), Русский, Deutsch, Français, Italiano, Polski, Türkçe, Українська, Nederlands, Svenska, Dansk, Norsk, Suomi |
 | **Steam** | <https://store.steampowered.com/app/5324330> |
+| **Also on** | itch.io (demo): <https://dlsdnjs96.itch.io/plinko-squad> |
 | **Discord** | <https://discord.gg/KYamXevqhJ> |
 | **Press Contact** | natural.nomad.26@gmail.com |
 
@@ -40,9 +41,17 @@ Drop balls down a plinko board to recruit your squad, arrange them on a hex grid
 - **Climb the tower** — shop, drop, fight, collect, one floor at a time, with a boss every four floors up to floor 25.
 - **Permadeath squad** — units that fall in battle are gone for good.
 
+## What's in the Demo
+
+- One full run on Easy, from the first floor to the top
+- Five classes and four heroes to combine
+- English, Korean and more
+
 ## Trailer
 
-TBA
+[![Watch the trailer on YouTube](https://img.youtube.com/vi/8qHHumcHCrM/maxresdefault.jpg)](https://youtu.be/8qHHumcHCrM)
+
+**[Watch the trailer on YouTube](https://youtu.be/8qHHumcHCrM)** — 77 seconds, captured from the demo build.
 
 ## Logo & Key Art
 
@@ -59,21 +68,24 @@ Click an image to open the original file, or grab everything in the [.zip](./ass
 
 ## Screenshots
 
-1920×1080. Click an image to open the original file.
+1920×1080, from the current demo build (English UI). Click an image to open the original file.
 
-[![Screenshot 1 — Battle](./assets/screenshot_01.jpg)](./assets/screenshot_01.jpg)
+[![Screenshot 6 — Full formation before a fight](./assets/screenshot_06.jpg)](./assets/screenshot_06.jpg)
 
 | | |
 |---|---|
-| [![Screenshot 2 — Plinko board](./assets/screenshot_02.jpg)](./assets/screenshot_02.jpg) | [![Screenshot 3 — Preparation](./assets/screenshot_03.jpg)](./assets/screenshot_03.jpg) |
-| [![Screenshot 4 — Encounter select](./assets/screenshot_04.jpg)](./assets/screenshot_04.jpg) | [![Screenshot 5 — Augment draft](./assets/screenshot_05.jpg)](./assets/screenshot_05.jpg) |
-| [![Screenshot 6 — Battle](./assets/screenshot_06.jpg)](./assets/screenshot_06.jpg) | |
+| [![Screenshot 1 — Rapid plinko drops](./assets/screenshot_01.jpg)](./assets/screenshot_01.jpg) | [![Screenshot 2 — Hero synthesis](./assets/screenshot_02.jpg)](./assets/screenshot_02.jpg) |
+| [![Screenshot 3 — Kelly's flame vortex](./assets/screenshot_03.jpg)](./assets/screenshot_03.jpg) | [![Screenshot 4 — Rift portal charge](./assets/screenshot_04.jpg)](./assets/screenshot_04.jpg) |
+| [![Screenshot 5 — Victory](./assets/screenshot_05.jpg)](./assets/screenshot_05.jpg) | [![Screenshot 7 — Black hole scroll](./assets/screenshot_07.jpg)](./assets/screenshot_07.jpg) |
+| [![Screenshot 8 — Meteor scroll](./assets/screenshot_08.jpg)](./assets/screenshot_08.jpg) | [![Screenshot 9 — Floor 25 boss](./assets/screenshot_09.jpg)](./assets/screenshot_09.jpg) |
+| [![Screenshot 10 — Augment draft](./assets/screenshot_10.jpg)](./assets/screenshot_10.jpg) | [![Screenshot 11 — Sudden death](./assets/screenshot_11.jpg)](./assets/screenshot_11.jpg) |
+| [![Screenshot 12 — Plinko slot bench](./assets/screenshot_12.jpg)](./assets/screenshot_12.jpg) | |
 
 ## About the Developer
 
-Natural Nomad is a solo indie developer from South Korea.
+Natural Nomad is a solo indie developer from South Korea. Plinko Squad is the studio's third game, following the free poker roguelike deckbuilder Board Poker (July 2026) and the action clicker Incremental Magic.
 
-한국의 1인 인디 개발자입니다.
+한국의 1인 인디 개발자입니다. Plinko Squad 는 Board Poker, Incremental Magic 에 이은 세 번째 게임입니다.
 
 ## AI Disclosure
 
